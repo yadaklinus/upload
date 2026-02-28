@@ -1,0 +1,4 @@
+-availablevidmem 40.0
+-nememrestrict
+-norestrictions
+-ignoreDifferentVideoCard
